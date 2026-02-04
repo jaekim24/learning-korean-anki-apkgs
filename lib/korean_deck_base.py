@@ -72,6 +72,9 @@ MODEL_IDS = {
 # Deck ID registry
 DECK_IDS = {
     "consonants_vowels": 1837523962,
+    "phrases_common": 1837523963,
+    "verbs_common": 1837523964,
+    "vocab_common": 1837523965,
     "hangul": 1837523948,
     "syllables": 1837523949,
     "numbers": 1837523950,

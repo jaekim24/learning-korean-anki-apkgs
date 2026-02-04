@@ -404,6 +404,7 @@ def generate_deck(output_file="decks/15_korean_phrases_common.apkg"):
 
         for card in all_cards:
             note = add_sentence_note(deck, model, card, audio_dir)
+            deck.add_note(note)
             notes.append(note)
 
         # Generate the package
