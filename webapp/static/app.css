@@ -1,0 +1,189 @@
+:root {
+  --bg: #f6f7f9; --panel: #ffffff; --ink: #1a1d21; --muted: #6b7280;
+  --line: #e3e6ea; --accent: #2f6fed;
+  --again: #e05252; --hard: #b8862b; --good: #2f8f4e; --easy: #2f6fed;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16181c; --panel: #1e2126; --ink: #e8eaed; --muted: #9aa3ad;
+    --line: #2c3138; --accent: #6b9bff;
+    --again: #f0706f; --hard: #d9a441; --good: #56b877; --easy: #6b9bff;
+  }
+}
+* { box-sizing: border-box; }
+/* Elements toggled with .hidden carry display rules of their own (#controls is
+   flex, #grades is grid on phones), and those beat the UA's [hidden] rule. */
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+button { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  overscroll-behavior-y: contain;
+  font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
+}
+header {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  padding: 14px max(22px, env(safe-area-inset-right)) 14px max(22px, env(safe-area-inset-left));
+  padding-top: max(14px, env(safe-area-inset-top)); border-bottom: 1px solid var(--line); background: var(--panel);
+}
+.brand { font-size: 19px; font-weight: 700; text-decoration: none; color: var(--ink); }
+.brand span { font-weight: 400; color: var(--muted); font-size: 14px; }
+.muted { color: var(--muted); font-size: 13px; }
+main {
+  max-width: 860px; margin: 0 auto;
+  padding: 22px max(22px, env(safe-area-inset-right)) 22px max(22px, env(safe-area-inset-left));
+}
+
+.stats { display: flex; gap: 22px; margin-bottom: 18px; }
+.stats div b { font-size: 20px; }
+
+.deck {
+  display: flex; align-items: center; gap: 14px; padding: 13px 16px; margin-bottom: 9px;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 11px;
+}
+.deck .name { flex: 1; min-width: 0; font-weight: 600; overflow-wrap: anywhere; }
+.deck .src {
+  display: block; font-weight: 400; font-size: 12px; color: var(--muted);
+  overflow-wrap: anywhere;
+}
+.pill { min-width: 34px; text-align: center; font-variant-numeric: tabular-nums; font-weight: 600; }
+.pill.new { color: var(--easy); } .pill.learn { color: var(--hard); } .pill.due { color: var(--good); }
+.pill.zero { color: var(--muted); font-weight: 400; }
+.deck button.study {
+  background: var(--accent); color: #fff; border: 0; border-radius: 8px;
+  padding: 8px 15px; font-weight: 600; cursor: pointer;
+}
+/* A finished deck still opens -- that screen holds its new-cards/day and reset. */
+.deck button.study.empty { background: none; border: 1px solid var(--line); color: var(--muted); }
+
+/* A unit collapses to a single row; its lessons live in .group-body. */
+.group {
+  margin-bottom: 9px; background: var(--panel);
+  border: 1px solid var(--line); border-radius: 11px; overflow: hidden;
+}
+.group-head {
+  display: flex; align-items: center; gap: 14px; padding: 13px 16px;
+  cursor: pointer; user-select: none;
+}
+.group-head:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+.group-head .chev { width: 12px; color: var(--muted); }
+.group-head .name { flex: 1; min-width: 0; font-weight: 600; overflow-wrap: anywhere; }
+.group-head .src {
+  display: block; font-weight: 400; font-size: 12px; color: var(--muted);
+  overflow-wrap: anywhere;
+}
+.group-body { border-top: 1px solid var(--line); background: var(--bg); padding: 9px 10px 0; }
+.group-body .deck { margin-bottom: 9px; }
+
+.npd { display: flex; align-items: center; gap: 6px; }
+.npd label { font-size: 12px; color: var(--muted); white-space: nowrap; }
+.npd input {
+  width: 62px; padding: 5px 7px; border: 1px solid var(--line); border-radius: 7px;
+  background: var(--panel); color: var(--ink); font: inherit; font-size: 13px;
+}
+.npd .save { padding: 5px 10px; font-size: 13px; }
+/* On a phone the header is tight: keep the number, drop its label. */
+@media (max-width: 560px) { .npd label { display: none; } }
+
+.study-bar { display: flex; align-items: center; gap: 14px; margin-bottom: 8px; }
+#study-title { flex: 1; font-weight: 600; }
+.counts { font-variant-numeric: tabular-nums; }
+.counts b { padding: 0 3px; }
+.counts .n { color: var(--easy); } .counts .l { color: var(--hard); } .counts .d { color: var(--good); }
+.ghost { background: none; border: 1px solid var(--line); color: var(--ink);
+  border-radius: 8px; padding: 6px 11px; cursor: pointer; }
+
+#card-area {
+  background: var(--panel); border: 1px solid var(--line); border-radius: 14px;
+  padding: 26px 18px; min-height: 260px; display: flex; align-items: center; justify-content: center;
+}
+#card { width: 100%; }
+#card * { max-width: 100%; overflow-wrap: anywhere; }
+#card img { height: auto; }
+.card img, .card svg { max-width: 100%; }
+.cloze { color: var(--easy); font-weight: 700; }
+
+.audio-row { display: flex; gap: 8px; justify-content: center; margin: 12px 0 4px; min-height: 34px; }
+.audio-row button {
+  border: 1px solid var(--line); background: var(--panel); color: var(--ink);
+  border-radius: 999px; padding: 6px 14px; cursor: pointer; font-size: 14px;
+}
+
+#controls { margin-top: 14px; display: flex; justify-content: center; }
+#grades { display: flex; gap: 9px; flex-wrap: wrap; justify-content: center; }
+button.primary {
+  background: var(--accent); color: #fff; border: 0; border-radius: 10px;
+  padding: 13px 28px; font-size: 16px; font-weight: 600; cursor: pointer;
+}
+button.grade {
+  border: 1px solid var(--line); background: var(--panel); border-radius: 10px;
+  padding: 10px 18px; cursor: pointer; font-weight: 600; color: var(--ink);
+  display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 92px;
+}
+button.grade span { font-size: 12px; font-weight: 400; color: var(--muted); }
+button.again { border-color: var(--again); color: var(--again); }
+button.hard  { border-color: var(--hard);  color: var(--hard); }
+button.good  { border-color: var(--good);  color: var(--good); }
+button.easy  { border-color: var(--easy);  color: var(--easy); }
+kbd {
+  font: 11px ui-monospace, monospace; border: 1px solid var(--line);
+  border-radius: 4px; padding: 0 4px; color: var(--muted); background: transparent;
+}
+button.primary kbd { border-color: rgba(255,255,255,.5); color: #fff; }
+.done { text-align: center; padding: 30px; font-size: 17px; }
+.hint { text-align: center; margin-top: 18px; }
+.settings { display: flex; gap: 10px; align-items: center; justify-content: center; margin-top: 22px; }
+.settings input {
+  width: 72px; padding: 5px; border-radius: 7px; border: 1px solid var(--line);
+  background: var(--panel); color: var(--ink);
+  font-size: 16px; /* below 16px, iOS zooms the page when the field is focused */
+}
+
+#header-info .pill { min-width: 0; font-weight: 600; margin-left: 4px; }
+.counts { color: var(--muted); }
+
+
+/* --- phones (iPhone 15 Pro Max is 430x932 CSS px) -------------------------
+   Deck rows stack instead of overflowing, the answer buttons stay pinned
+   within thumb reach, and every target clears the 44px touch minimum. */
+@media (max-width: 560px) {
+  main { padding: 14px max(14px, env(safe-area-inset-right)) 0 max(14px, env(safe-area-inset-left)); }
+  header { padding-left: max(16px, env(safe-area-inset-left)); padding-right: max(16px, env(safe-area-inset-right)); }
+  .brand { font-size: 17px; display: inline-flex; align-items: center; gap: 6px; min-height: 44px; }
+  #header-info { text-align: right; }
+
+  .stats { gap: 14px; margin-bottom: 14px; }
+  .stats div b { font-size: 18px; }
+
+  .deck {
+    display: grid; grid-template-columns: 1fr auto auto auto auto;
+    grid-template-areas: "name name name name name" ". new learn due study";
+    gap: 6px 10px; align-items: center; padding: 12px 14px;
+  }
+  .deck .name { grid-area: name; }
+  .deck .pill.new { grid-area: new; } .deck .pill.learn { grid-area: learn; }
+  .deck .pill.due { grid-area: due; }
+  .deck button.study { grid-area: study; min-height: 44px; padding: 8px 20px; }
+
+  #card-area { padding: 20px 14px; min-height: 200px; border-radius: 12px; }
+  .audio-row button { min-height: 44px; padding: 8px 18px; }
+
+  /* keep the answer buttons on screen no matter how tall the card is */
+  #controls {
+    position: sticky; bottom: 0; z-index: 2; margin-top: 10px;
+    background: linear-gradient(to bottom, transparent, var(--bg) 22%);
+    padding: 14px 0 max(12px, env(safe-area-inset-bottom));
+  }
+  #grades { display: grid; grid-template-columns: repeat(4, 1fr); gap: 7px; width: 100%; }
+  button.grade { min-width: 0; min-height: 60px; padding: 8px 4px; }
+  button.primary { width: 100%; min-height: 56px; }
+  .ghost { min-height: 44px; }
+  .hint { padding-bottom: max(10px, env(safe-area-inset-bottom)); }
+  .settings { flex-wrap: wrap; gap: 8px; }
+  .settings input { min-height: 44px; }
+}
+
+/* Touch devices have no keyboard to shortcut with, and no hover state. */
+@media (pointer: coarse) {
+  .hint, kbd { display: none; }
+}

@@ -1,0 +1,1585 @@
+{
+  "source": "https://www.howtostudykorean.com/",
+  "retrieved": "2026-08-25",
+  "note": "Index of lesson numbers, titles and URLs only (table of contents). Lesson content is not included; see the source site.",
+  "counts": {
+    "units": 10,
+    "unit0_lessons": 3,
+    "numbered_lessons_listed": 208,
+    "published": 201,
+    "planned": 7
+  },
+  "units": [
+    {
+      "unit": 0,
+      "name": "Learning How to Read",
+      "lesson_range": null,
+      "url": "https://www.howtostudykorean.com/unit0/"
+    },
+    {
+      "unit": 1,
+      "name": "Basic Korean Grammar",
+      "lesson_range": [
+        1,
+        25
+      ],
+      "url": "https://www.howtostudykorean.com/unit1/"
+    },
+    {
+      "unit": 2,
+      "name": "Lower-Intermediate Korean Grammar",
+      "lesson_range": [
+        26,
+        50
+      ],
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/"
+    },
+    {
+      "unit": 3,
+      "name": "Intermediate Korean Grammar",
+      "lesson_range": [
+        51,
+        75
+      ],
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/"
+    },
+    {
+      "unit": 4,
+      "name": "Upper-Intermediate Korean Grammar",
+      "lesson_range": [
+        76,
+        100
+      ],
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/"
+    },
+    {
+      "unit": 5,
+      "name": "Lower-Advanced Korean Grammar",
+      "lesson_range": [
+        101,
+        125
+      ],
+      "url": "https://www.howtostudykorean.com/unit-5/"
+    },
+    {
+      "unit": 6,
+      "name": "Advanced Korean Grammar",
+      "lesson_range": [
+        126,
+        150
+      ],
+      "url": "https://www.howtostudykorean.com/unit-6/"
+    },
+    {
+      "unit": 7,
+      "name": "Upper-Advanced Korean Grammar",
+      "lesson_range": [
+        151,
+        175
+      ],
+      "url": "https://www.howtostudykorean.com/unit-7/"
+    },
+    {
+      "unit": 8,
+      "name": "Near-Expert Korean Grammar",
+      "lesson_range": [
+        176,
+        200
+      ],
+      "url": "https://www.howtostudykorean.com/unit-8/"
+    },
+    {
+      "unit": 9,
+      "name": "Expert Korean Grammar",
+      "lesson_range": [
+        201,
+        208
+      ],
+      "url": "https://www.howtostudykorean.com/unit-9/"
+    }
+  ],
+  "unit0_lessons": [
+    {
+      "lesson": 1,
+      "unit": 0,
+      "title": "Korean Word Structure and Basic Letters",
+      "url": "https://www.howtostudykorean.com/unit0/unit0lesson1/",
+      "status": "published"
+    },
+    {
+      "lesson": 2,
+      "unit": 0,
+      "title": "More Basic Korean Letters",
+      "url": "https://www.howtostudykorean.com/unit0/0-lesson-2/",
+      "status": "published"
+    },
+    {
+      "lesson": 3,
+      "unit": 0,
+      "title": "Korean Dipthongs: Complex Vowels",
+      "url": "https://www.howtostudykorean.com/unit0/unit-0-lesson-3/",
+      "status": "published"
+    }
+  ],
+  "lessons": [
+    {
+      "lesson": 1,
+      "unit": 1,
+      "title": "Basic Korean Sentences",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-1/",
+      "status": "published"
+    },
+    {
+      "lesson": 2,
+      "unit": 1,
+      "title": "Korean Particles 이/가",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-2/",
+      "status": "published"
+    },
+    {
+      "lesson": 3,
+      "unit": 1,
+      "title": "Korean Verbs/Adjectives",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-3/",
+      "status": "published"
+    },
+    {
+      "lesson": 4,
+      "unit": 1,
+      "title": "Korean Adjectives ~ㄴ/은",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-4/",
+      "status": "published"
+    },
+    {
+      "lesson": 5,
+      "unit": 1,
+      "title": "Korean Conjugation: Past, Present, Future",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-5/",
+      "status": "published"
+    },
+    {
+      "lesson": 6,
+      "unit": 1,
+      "title": "Korean Honorifics",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-6/",
+      "status": "published"
+    },
+    {
+      "lesson": 7,
+      "unit": 1,
+      "title": "Korean Irregulars",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-7/",
+      "status": "published"
+    },
+    {
+      "lesson": 8,
+      "unit": 1,
+      "title": "Korean Adverbs, Negative Sentences in Korean",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-8/",
+      "status": "published"
+    },
+    {
+      "lesson": 9,
+      "unit": 1,
+      "title": "Conjugate 이다 (할 것이다)",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/unit-1-lesson-9/",
+      "status": "published"
+    },
+    {
+      "lesson": 10,
+      "unit": 1,
+      "title": "Korean Numbers",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/unit-1-lesson-10/",
+      "status": "published"
+    },
+    {
+      "lesson": 11,
+      "unit": 1,
+      "title": "동안, Seconds, Minutes, Hours, Days, Weeks, Months, Years",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-11/",
+      "status": "published"
+    },
+    {
+      "lesson": 12,
+      "unit": 1,
+      "title": "Korean Particles 들, 만, 에서, 부터, 까지, (으)로",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-12/",
+      "status": "published"
+    },
+    {
+      "lesson": 13,
+      "unit": 1,
+      "title": "Korean Particles 과/와, (이)랑, 하고, 과/와 함께, 에게/한테/께, 에게서/로부터 and 위해, 에 대해",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-13/",
+      "status": "published"
+    },
+    {
+      "lesson": 14,
+      "unit": 1,
+      "title": "Korean Passive Verbs",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-14-korean-passive-verbs/",
+      "status": "published"
+    },
+    {
+      "lesson": 15,
+      "unit": 1,
+      "title": "Miscellaneous Words and Grammar: 들다, Korean Homonyms, Being Sick, Different/Similar/Same",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-15/",
+      "status": "published"
+    },
+    {
+      "lesson": 16,
+      "unit": 1,
+      "title": "Noun + ~적, ~적으로, ~적이다, ~스럽다",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-9-16/lesson-16/",
+      "status": "published"
+    },
+    {
+      "lesson": 17,
+      "unit": 1,
+      "title": "Connecting Particle ~고 and ~고 싶다 “I want to”",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-17/",
+      "status": "published"
+    },
+    {
+      "lesson": 18,
+      "unit": 1,
+      "title": "Present Progressive ~고 있다 (I am ___ing), Adjective + 아/어지다 (Getting ___)",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-18/",
+      "status": "published"
+    },
+    {
+      "lesson": 19,
+      "unit": 1,
+      "title": "Korean Comparatives and Superlatives – 더, 보다, 가장",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-19/",
+      "status": "published"
+    },
+    {
+      "lesson": 20,
+      "unit": 1,
+      "title": "Well/Poorly – 잘하다/못하다, 못, 잘, 잘못",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-20/",
+      "status": "published"
+    },
+    {
+      "lesson": 21,
+      "unit": 1,
+      "title": "Asking Questions in Korean: Why, When, Where, Who",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-21-asking-questions-in-korean-why-when-where-and-who/",
+      "status": "published"
+    },
+    {
+      "lesson": 22,
+      "unit": 1,
+      "title": "Asking Questions in Korean: How, What, Which, How Many",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-22/",
+      "status": "published"
+    },
+    {
+      "lesson": 23,
+      "unit": 1,
+      "title": "ㅎ Irregular: Korean Colors, 이렇다, 그렇다 and 저렇다",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-23/",
+      "status": "published"
+    },
+    {
+      "lesson": 24,
+      "unit": 1,
+      "title": "Before, After, Since, Within (전/후/이래로/이내)",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-24/",
+      "status": "published"
+    },
+    {
+      "lesson": 25,
+      "unit": 1,
+      "title": "Anybody, Everybody, Somebody, Nobody, etc.",
+      "url": "https://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-25/",
+      "status": "published"
+    },
+    {
+      "lesson": 26,
+      "unit": 2,
+      "title": "~는 것 Describing Nouns with Verbs",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-26/",
+      "status": "published"
+    },
+    {
+      "lesson": 27,
+      "unit": 2,
+      "title": "Using 던/었던 to Describe Past Tense",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-27/",
+      "status": "published"
+    },
+    {
+      "lesson": 28,
+      "unit": 2,
+      "title": "Anomalies with ~는 것",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-28/",
+      "status": "published"
+    },
+    {
+      "lesson": 29,
+      "unit": 2,
+      "title": "Changing Nouns to Verbs with ~기 and 음/ㅁ",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-29/",
+      "status": "published"
+    },
+    {
+      "lesson": 30,
+      "unit": 2,
+      "title": "~ 지, ~지 모르다, ㄴ/은 지 X 됐다",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-30/",
+      "status": "published"
+    },
+    {
+      "lesson": 31,
+      "unit": 2,
+      "title": "Using ~는 것 with 이다, ㄴ/는다 는 것",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-31/",
+      "status": "published"
+    },
+    {
+      "lesson": 32,
+      "unit": 2,
+      "title": "~려고/러 and 아/어 보다 (with 적)",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-32/",
+      "status": "published"
+    },
+    {
+      "lesson": 33,
+      "unit": 2,
+      "title": "~중 (하는 중), (~중에)",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-33/",
+      "status": "published"
+    },
+    {
+      "lesson": 34,
+      "unit": 2,
+      "title": "Explanations for Difficult Words",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-34/",
+      "status": "published"
+    },
+    {
+      "lesson": 35,
+      "unit": 2,
+      "title": "It seems to be/might be (~ㄹ 것 같다)",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-35/",
+      "status": "published"
+    },
+    {
+      "lesson": 36,
+      "unit": 2,
+      "title": "To look like: ~같이 보이다 / ~어/아 보이다",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-36/",
+      "status": "published"
+    },
+    {
+      "lesson": 37,
+      "unit": 2,
+      "title": "Because – ~아/어서",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-37/",
+      "status": "published"
+    },
+    {
+      "lesson": 38,
+      "unit": 2,
+      "title": "Because: ~기 때문에",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-38/",
+      "status": "published"
+    },
+    {
+      "lesson": 39,
+      "unit": 2,
+      "title": "Honorific ‘시’ ending, Honorific words",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-39/",
+      "status": "published"
+    },
+    {
+      "lesson": 40,
+      "unit": 2,
+      "title": "The Imperative Mood: ~세요, 아/어, 아/어라",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-40/",
+      "status": "published"
+    },
+    {
+      "lesson": 41,
+      "unit": 2,
+      "title": "“Give me..” – 주다, 아/어 주다",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-41/",
+      "status": "published"
+    },
+    {
+      "lesson": 42,
+      "unit": 2,
+      "title": "When I do, When I did (~ㄹ 때)",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-42/",
+      "status": "published"
+    },
+    {
+      "lesson": 43,
+      "unit": 2,
+      "title": "If (or when) ~ㄴ/는다면, ~(으)면",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-43/",
+      "status": "published"
+    },
+    {
+      "lesson": 44,
+      "unit": 2,
+      "title": "Let’s/Shall: ~자, ~ㅂ/읍시다, ~ㄹ/을래(요)",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-44/",
+      "status": "published"
+    },
+    {
+      "lesson": 45,
+      "unit": 2,
+      "title": "I can, I can’t – ~ㄹ 수 있다/없다",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-45/",
+      "status": "published"
+    },
+    {
+      "lesson": 46,
+      "unit": 2,
+      "title": "I have to/I need to ~아/어 야 하다, ~ㄹ 필요가 있다",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-46/",
+      "status": "published"
+    },
+    {
+      "lesson": 47,
+      "unit": 2,
+      "title": "Even though: ~지만",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-47/",
+      "status": "published"
+    },
+    {
+      "lesson": 48,
+      "unit": 2,
+      "title": "Regardless of… : ~아/어도",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-48/",
+      "status": "published"
+    },
+    {
+      "lesson": 49,
+      "unit": 2,
+      "title": "There is no problem if: ~아/어도 되다",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-49/",
+      "status": "published"
+    },
+    {
+      "lesson": 50,
+      "unit": 2,
+      "title": "~ㄹ 예정, ~ㄹ 계획, ~ㄹ 준비",
+      "url": "https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-50/",
+      "status": "published"
+    },
+    {
+      "lesson": 51,
+      "unit": 3,
+      "title": "하기도 하고 ~하기도 하다",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-51/",
+      "status": "published"
+    },
+    {
+      "lesson": 52,
+      "unit": 3,
+      "title": "Quoting in Korean (~ㄴ/는다고) test",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-52/",
+      "status": "published"
+    },
+    {
+      "lesson": 53,
+      "unit": 3,
+      "title": "Quoting Different Endings (~자고, ~냐고)",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-53/",
+      "status": "published"
+    },
+    {
+      "lesson": 54,
+      "unit": 3,
+      "title": "Quoted Imperative Sentences: ~(으)라고",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-54/",
+      "status": "published"
+    },
+    {
+      "lesson": 55,
+      "unit": 3,
+      "title": "Or ~(이)나, ~거나, 아니면",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-55/",
+      "status": "published"
+    },
+    {
+      "lesson": 56,
+      "unit": 3,
+      "title": "To make, to let: ~게 하다",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-56/",
+      "status": "published"
+    },
+    {
+      "lesson": 57,
+      "unit": 3,
+      "title": "To make/order: 시키다",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-57/",
+      "status": "published"
+    },
+    {
+      "lesson": 58,
+      "unit": 3,
+      "title": "I said “give”: ~아/어 달라고",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-51-58/lesson-58/",
+      "status": "published"
+    },
+    {
+      "lesson": 59,
+      "unit": 3,
+      "title": "Difficult words: 어쩌면, 아무래도, 가꾸다, 연세, 뵈다, 차림, 즉",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-59/",
+      "status": "published"
+    },
+    {
+      "lesson": 60,
+      "unit": 3,
+      "title": "Difficult words: 차다, 가득, 왠지, 설마, 찍다, 다행, ~달",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-60/",
+      "status": "published"
+    },
+    {
+      "lesson": 61,
+      "unit": 3,
+      "title": "To wish/to hope: 바라다, ~기 바랍니다, ~았/었으면 좋겠다",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-61/",
+      "status": "published"
+    },
+    {
+      "lesson": 62,
+      "unit": 3,
+      "title": "While: ~(으)면서, ~(으)며",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-62/",
+      "status": "published"
+    },
+    {
+      "lesson": 63,
+      "unit": 3,
+      "title": "~ㄹ/을까(요), ~ㄹ/을게요",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-63/",
+      "status": "published"
+    },
+    {
+      "lesson": 64,
+      "unit": 3,
+      "title": "“Do you think” and “I am thinking of:” ~ㄹ/을까(요)",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-64/",
+      "status": "published"
+    },
+    {
+      "lesson": 65,
+      "unit": 3,
+      "title": "I am worried about… : ㄹ/을까 봐",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-65/",
+      "status": "published"
+    },
+    {
+      "lesson": 66,
+      "unit": 3,
+      "title": "Almost: 거의 and ~ㄹ/을 뻔 했다",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-66/",
+      "status": "published"
+    },
+    {
+      "lesson": 67,
+      "unit": 3,
+      "title": "Like (~처럼), As if (~듯)",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-67/",
+      "status": "published"
+    },
+    {
+      "lesson": 68,
+      "unit": 3,
+      "title": "Only: 유일하다/유일하게",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-68/",
+      "status": "published"
+    },
+    {
+      "lesson": 69,
+      "unit": 3,
+      "title": "Nothing but: 밖에 (~ㄹ/을 수밖에 없다)",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-69/",
+      "status": "published"
+    },
+    {
+      "lesson": 70,
+      "unit": 3,
+      "title": "Clause Connector: 아/어",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-70/",
+      "status": "published"
+    },
+    {
+      "lesson": 71,
+      "unit": 3,
+      "title": "To include (포함하다), to exclude (제외하다)",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-71/",
+      "status": "published"
+    },
+    {
+      "lesson": 72,
+      "unit": 3,
+      "title": "As much as: ~만큼, 정도",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-72/",
+      "status": "published"
+    },
+    {
+      "lesson": 73,
+      "unit": 3,
+      "title": "Instead (대신에)",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-73/",
+      "status": "published"
+    },
+    {
+      "lesson": 74,
+      "unit": 3,
+      "title": "It doesn’t matter/ Regardless of (상관없다/상관없이)",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-74/",
+      "status": "published"
+    },
+    {
+      "lesson": 75,
+      "unit": 3,
+      "title": "I don’t care: 신경 안 쓰다",
+      "url": "https://www.howtostudykorean.com/unit-3-intermediate-korean-grammar/lessons-67-75/lesson-75/",
+      "status": "published"
+    },
+    {
+      "lesson": 76,
+      "unit": 4,
+      "title": "~는데 and ~는 데 in Korean",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-76-83/lesson-76/",
+      "status": "published"
+    },
+    {
+      "lesson": 77,
+      "unit": 4,
+      "title": "More ~는데 (그런데) and ~는 데",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-76-83/lesson-77/",
+      "status": "published"
+    },
+    {
+      "lesson": 78,
+      "unit": 4,
+      "title": "According to, Due to: ~에 의하다, ~(으)로 인하다",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-76-83/lesson-78/",
+      "status": "published"
+    },
+    {
+      "lesson": 79,
+      "unit": 4,
+      "title": "Difficult words: (그)대로, 인기, 당연하다, 알맞다, 전체",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-76-83/lesson-79/",
+      "status": "published"
+    },
+    {
+      "lesson": 80,
+      "unit": 4,
+      "title": "One should/must not: ~아/어서는 안 되다, ~(으)면 안 되다",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-76-83/lesson-80/",
+      "status": "published"
+    },
+    {
+      "lesson": 81,
+      "unit": 4,
+      "title": "Because (of): ~(으)니까 and ~(으)니",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-76-83/lesson-81/",
+      "status": "published"
+    },
+    {
+      "lesson": 82,
+      "unit": 4,
+      "title": "~구나, ~군 and ~군요",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-76-83/lesson-82-2/",
+      "status": "published"
+    },
+    {
+      "lesson": 83,
+      "unit": 4,
+      "title": "Expressing Surprise or Admiration: ~네(요)",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-76-83/lesson-83/",
+      "status": "published"
+    },
+    {
+      "lesson": 84,
+      "unit": 4,
+      "title": "As soon as (~자마자, ~는 대로, ~자)",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-84/",
+      "status": "published"
+    },
+    {
+      "lesson": 85,
+      "unit": 4,
+      "title": "To know, to not know (~ㄹ/을/ㄴ/은 줄 알다/모르다), As you know (~알다시피)",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-85/",
+      "status": "published"
+    },
+    {
+      "lesson": 86,
+      "unit": 4,
+      "title": "Negating Nouns and Clauses (아니라, ~는 게 아니라)",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-86/",
+      "status": "published"
+    },
+    {
+      "lesson": 87,
+      "unit": 4,
+      "title": "To decide to do (~기로 하다)",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-87/",
+      "status": "published"
+    },
+    {
+      "lesson": 88,
+      "unit": 4,
+      "title": "Many meanings of ~다가",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-88/",
+      "status": "published"
+    },
+    {
+      "lesson": 89,
+      "unit": 4,
+      "title": "Comparing using fractions and orders of magnitute",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-89/",
+      "status": "published"
+    },
+    {
+      "lesson": 90,
+      "unit": 4,
+      "title": "The meaning of ~잖다 (~잖아, ~잖아요)",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-90/",
+      "status": "published"
+    },
+    {
+      "lesson": 91,
+      "unit": 4,
+      "title": "~거든(요): Because, Other meanings",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-84-91/lesson-91/",
+      "status": "published"
+    },
+    {
+      "lesson": 92,
+      "unit": 4,
+      "title": "~도록: To an extent, In order to, To make",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-82/",
+      "status": "published"
+    },
+    {
+      "lesson": 93,
+      "unit": 4,
+      "title": "~지 and ~죠",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-93/",
+      "status": "published"
+    },
+    {
+      "lesson": 94,
+      "unit": 4,
+      "title": "To end up: ~게 되다",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-94/",
+      "status": "published"
+    },
+    {
+      "lesson": 95,
+      "unit": 4,
+      "title": "뿐: Just, Only (~ㄹ/을 뿐이다, ~ㄹ/을 뿐만 아니라)",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-95/",
+      "status": "published"
+    },
+    {
+      "lesson": 96,
+      "unit": 4,
+      "title": "If one wants to be able to: ~(으)려면",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-96/",
+      "status": "published"
+    },
+    {
+      "lesson": 97,
+      "unit": 4,
+      "title": "An abbreviation of 가지다: 갖다",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-97/",
+      "status": "published"
+    },
+    {
+      "lesson": 98,
+      "unit": 4,
+      "title": "To pretend to: ~은/ㄴ/는 척하다",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-98/",
+      "status": "published"
+    },
+    {
+      "lesson": 99,
+      "unit": 4,
+      "title": "Even if: ~더라도",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-99/",
+      "status": "published"
+    },
+    {
+      "lesson": 100,
+      "unit": 4,
+      "title": "The confusing meanings of ~텐데(요)",
+      "url": "https://www.howtostudykorean.com/upper-intermediate-korean-grammar/unit-4-lessons-92-100/lesson-100/",
+      "status": "published"
+    },
+    {
+      "lesson": 101,
+      "unit": 5,
+      "title": "Korean Slang and Abreviations",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-101-108/lesson-101/",
+      "status": "published"
+    },
+    {
+      "lesson": 102,
+      "unit": 5,
+      "title": "Quoted Abbreviations",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-101-108/lesson-102/",
+      "status": "published"
+    },
+    {
+      "lesson": 103,
+      "unit": 5,
+      "title": "Lessons 103: 한, 약, ~(으)므로, 전반, 당하다",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-101-108/lesson-103/",
+      "status": "published"
+    },
+    {
+      "lesson": 104,
+      "unit": 5,
+      "title": "~는/은 Adding to More Complicated Things",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-101-108/lesson-104/",
+      "status": "published"
+    },
+    {
+      "lesson": 105,
+      "unit": 5,
+      "title": "Small Grammar Points!",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-101-108/lesson-105a/",
+      "status": "published"
+    },
+    {
+      "lesson": 106,
+      "unit": 5,
+      "title": "Listing Possibilities/Outcomes: ~든지 (간에)",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-101-108/lesson-106/",
+      "status": "published"
+    },
+    {
+      "lesson": 107,
+      "unit": 5,
+      "title": "~도 Revisited",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-101-108/lesson-107/",
+      "status": "published"
+    },
+    {
+      "lesson": 108,
+      "unit": 5,
+      "title": "Past Perfect: ~었~",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-101-108/lesson-108/",
+      "status": "published"
+    },
+    {
+      "lesson": 109,
+      "unit": 5,
+      "title": "~나 보다, ~는/ㄴ가 보다",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-109-116/lesson-109/",
+      "status": "published"
+    },
+    {
+      "lesson": 110,
+      "unit": 5,
+      "title": "어쩔 수 없다",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-109-116/lesson-110/",
+      "status": "published"
+    },
+    {
+      "lesson": 111,
+      "unit": 5,
+      "title": "~(이)라도",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-109-116/lesson-111/",
+      "status": "published"
+    },
+    {
+      "lesson": 112,
+      "unit": 5,
+      "title": "~는 편이다",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-109-116/lesson-112/",
+      "status": "published"
+    },
+    {
+      "lesson": 113,
+      "unit": 5,
+      "title": "On one’s way ~는 길",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-109-116/lesson-113/",
+      "status": "published"
+    },
+    {
+      "lesson": 114,
+      "unit": 5,
+      "title": "~는 김에",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-109-116/lesson-114/",
+      "status": "published"
+    },
+    {
+      "lesson": 115,
+      "unit": 5,
+      "title": "I Should Have: ~ㄹ/을걸 (그랬다)",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-109-116/lesson-115/",
+      "status": "published"
+    },
+    {
+      "lesson": 116,
+      "unit": 5,
+      "title": "While in the state of: ~ㄴ/은 채(로)",
+      "url": "https://www.howtostudykorean.com/unit-5/lessons-109-116/lesson-116/",
+      "status": "published"
+    },
+    {
+      "lesson": 117,
+      "unit": 5,
+      "title": "~더~ and ~던가",
+      "url": "https://www.howtostudykorean.com/unit-5/unit-5-lessons-117-125/lesson-117/",
+      "status": "published"
+    },
+    {
+      "lesson": 118,
+      "unit": 5,
+      "title": "Stating a fact from experience: ~더라",
+      "url": "https://www.howtostudykorean.com/unit-5/unit-5-lessons-117-125/lesson-118/",
+      "status": "published"
+    },
+    {
+      "lesson": 119,
+      "unit": 5,
+      "title": "~더니 (to notice…  then…)",
+      "url": "https://www.howtostudykorean.com/unit-5/unit-5-lessons-117-125/lesson-119/",
+      "status": "published"
+    },
+    {
+      "lesson": 120,
+      "unit": 5,
+      "title": "~다니",
+      "url": "https://www.howtostudykorean.com/unit-5/unit-5-lessons-117-125/lesson-120/",
+      "status": "published"
+    },
+    {
+      "lesson": 121,
+      "unit": 5,
+      "title": "~다 보면",
+      "url": "https://www.howtostudykorean.com/unit-5/unit-5-lessons-117-125/lesson-121/",
+      "status": "published"
+    },
+    {
+      "lesson": 122,
+      "unit": 5,
+      "title": "~다 보니(까)",
+      "url": "https://www.howtostudykorean.com/unit-5/unit-5-lessons-117-125/lesson-122/",
+      "status": "published"
+    },
+    {
+      "lesson": 123,
+      "unit": 5,
+      "title": "~어/어 보니(까)",
+      "url": "https://www.howtostudykorean.com/unit-5/unit-5-lessons-117-125/lesson-123/",
+      "status": "published"
+    },
+    {
+      "lesson": 124,
+      "unit": 5,
+      "title": "To be Worth Doing: ~ㄹ/을 만하다",
+      "url": "https://www.howtostudykorean.com/unit-5/unit-5-lessons-117-125/lesson-124/",
+      "status": "published"
+    },
+    {
+      "lesson": 125,
+      "unit": 5,
+      "title": "I said that: ~ㄴ/는다니까",
+      "url": "https://www.howtostudykorean.com/unit-5/unit-5-lessons-117-125/lesson-125-i-said-that/",
+      "status": "published"
+    },
+    {
+      "lesson": 126,
+      "unit": 6,
+      "title": "To be Grouped or Classified by: ~별",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-126-133/lesson-126/",
+      "status": "published"
+    },
+    {
+      "lesson": 127,
+      "unit": 6,
+      "title": "To be done in a divisible quantity – ~씩",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-126-133/lesson-127/",
+      "status": "published"
+    },
+    {
+      "lesson": 128,
+      "unit": 6,
+      "title": "Leaving an action in its completed state with 놓다, and an organization of 나다",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-126-133/lesson-128/",
+      "status": "published"
+    },
+    {
+      "lesson": 129,
+      "unit": 6,
+      "title": "To cross over, to pass – 넘다",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-126-133/lesson-129/",
+      "status": "published"
+    },
+    {
+      "lesson": 130,
+      "unit": 6,
+      "title": "Big Korean Numbers",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-126-133/lesson130/",
+      "status": "published"
+    },
+    {
+      "lesson": 131,
+      "unit": 6,
+      "title": "The Middle ㅅ: 사이시옷",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-126-133/lesson-131/",
+      "status": "published"
+    },
+    {
+      "lesson": 132,
+      "unit": 6,
+      "title": "~ㄹ/을수록 – As One Situation Changes, Another Situation Changes",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-126-133/lesson-132/",
+      "status": "published"
+    },
+    {
+      "lesson": 133,
+      "unit": 6,
+      "title": "For there to be no way ~ㄹ/을 리가 없다",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-126-133/lesson-133/",
+      "status": "published"
+    },
+    {
+      "lesson": 134,
+      "unit": 6,
+      "title": "Ultimate Konglish Guide",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-134-141/lesson-134/",
+      "status": "published"
+    },
+    {
+      "lesson": 135,
+      "unit": 6,
+      "title": "성 – Character or a Range of Quality",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-134-141/lesson-135/",
+      "status": "published"
+    },
+    {
+      "lesson": 136,
+      "unit": 6,
+      "title": "~기에 and ~길래: To do an action in reaction to an experience",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-134-141/lesson-136/",
+      "status": "published"
+    },
+    {
+      "lesson": 137,
+      "unit": 6,
+      "title": "~아/어야: One must do an action in order to do another",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-134-141/lesson-137/",
+      "status": "published"
+    },
+    {
+      "lesson": 138,
+      "unit": 6,
+      "title": "~았/었어야 하다 – One Should Have, But Didn’t",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-134-141/lesson-138/",
+      "status": "published"
+    },
+    {
+      "lesson": 139,
+      "unit": 6,
+      "title": "One Could Have Done, But Did Not",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-134-141/lesson-139/",
+      "status": "published"
+    },
+    {
+      "lesson": 140,
+      "unit": 6,
+      "title": "~(으)로서 – With a Specific Status",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-134-141/lesson-140/",
+      "status": "published"
+    },
+    {
+      "lesson": 141,
+      "unit": 6,
+      "title": "~(으)로써 – From what ingredient, or by what means or tool",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-134-141/lesson-141/",
+      "status": "published"
+    },
+    {
+      "lesson": 142,
+      "unit": 6,
+      "title": "~ㄴ/는다니 – Responding in Surprise or Displeasure",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-142/",
+      "status": "published"
+    },
+    {
+      "lesson": 143,
+      "unit": 6,
+      "title": "~ㄹ/을걸(요) To state or refute in an unsure way",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-143/",
+      "status": "published"
+    },
+    {
+      "lesson": 144,
+      "unit": 6,
+      "title": "~지 뭐: One doesn’t care about what the outcome of a situation is",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-144/",
+      "status": "published"
+    },
+    {
+      "lesson": 145,
+      "unit": 6,
+      "title": "~란",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-145/",
+      "status": "published"
+    },
+    {
+      "lesson": 146,
+      "unit": 6,
+      "title": "~느라고 – A Negative Result Occured Because a Purposeful Action was Done",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-146/",
+      "status": "published"
+    },
+    {
+      "lesson": 147,
+      "unit": 6,
+      "title": "~는 바람에 – A negative result occurred because of an unexpected or unpreventable event",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-147/",
+      "status": "published"
+    },
+    {
+      "lesson": 148,
+      "unit": 6,
+      "title": "~고는 하다 and ~곤 하다 – One does an action regularly but infrequently",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-148/",
+      "status": "published"
+    },
+    {
+      "lesson": 149,
+      "unit": 6,
+      "title": "하필 – Of all possible situations to occur, the most unfortunate one occurs",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-149/",
+      "status": "published"
+    },
+    {
+      "lesson": 150,
+      "unit": 6,
+      "title": "어쩐지 – One doesn’t know the reason and/or only now realizes",
+      "url": "https://www.howtostudykorean.com/unit-6/lessons-142-150/lesson-150/",
+      "status": "published"
+    },
+    {
+      "lesson": 151,
+      "unit": 7,
+      "title": "Korean onomatopoeias (의성어)",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-151/",
+      "status": "published"
+    },
+    {
+      "lesson": 152,
+      "unit": 7,
+      "title": "Korean mimetic words (의태어)",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-152/",
+      "status": "published"
+    },
+    {
+      "lesson": 153,
+      "unit": 7,
+      "title": "~(으)려니까 – To intend to do, but",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-153/",
+      "status": "published"
+    },
+    {
+      "lesson": 154,
+      "unit": 7,
+      "title": "~(으)려다가 – I was going to, but then",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-154/",
+      "status": "published"
+    },
+    {
+      "lesson": 155,
+      "unit": 7,
+      "title": "~(으)려는 Describing an upcoming noun with~려고 하다",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-155/",
+      "status": "published"
+    },
+    {
+      "lesson": 156,
+      "unit": 7,
+      "title": "~(으)려는 참 and ~(으)려던 참 – One was just about to",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-156/",
+      "status": "published"
+    },
+    {
+      "lesson": 157,
+      "unit": 7,
+      "title": "경우 – Case or Circumstance",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-157/",
+      "status": "published"
+    },
+    {
+      "lesson": 158,
+      "unit": 7,
+      "title": "위주 – Primarily, Mainly, Mostly",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-151-158/lesson-158/",
+      "status": "published"
+    },
+    {
+      "lesson": 159,
+      "unit": 7,
+      "title": "Abbreviating ~하지 않다 (~치 않다 and ~지 않다)",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-159-166/lesson-159/",
+      "status": "published"
+    },
+    {
+      "lesson": 160,
+      "unit": 7,
+      "title": "~느냐: Whether or Not",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-159-166/lesson-160/",
+      "status": "published"
+    },
+    {
+      "lesson": 161,
+      "unit": 7,
+      "title": "Describing Upcoming Nouns with ~느냐는",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-159-166/lesson-161/",
+      "status": "published"
+    },
+    {
+      "lesson": 162,
+      "unit": 7,
+      "title": "~느냐에 따라서 – Depending on…",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-159-166/lesson-162/",
+      "status": "published"
+    },
+    {
+      "lesson": 163,
+      "unit": 7,
+      "title": "~ㄴ/은/는/을/ㄹ 말이다: Stressing or Checking",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-159-166/lesson-163/",
+      "status": "published"
+    },
+    {
+      "lesson": 164,
+      "unit": 7,
+      "title": "~아/어야 말이지 – Expressing Annoyance",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-159-166/lesson-164/",
+      "status": "published"
+    },
+    {
+      "lesson": 165,
+      "unit": 7,
+      "title": "~(으)니/~기에 말이지 – Emphasizing Fortune or Relief",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-159-166/lesson-165/",
+      "status": "published"
+    },
+    {
+      "lesson": 166,
+      "unit": 7,
+      "title": "~(이)야말로 – Emphasizing Over All Others",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-159-166/lesson-166/",
+      "status": "published"
+    },
+    {
+      "lesson": 167,
+      "unit": 7,
+      "title": "~ㄹ/을까 말까 – Hesitating or Deciding",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-167-175/lesson-167/",
+      "status": "published"
+    },
+    {
+      "lesson": 168,
+      "unit": 7,
+      "title": "~거나 말거나: Indifference",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-167-175/lesson-168/",
+      "status": "published"
+    },
+    {
+      "lesson": 169,
+      "unit": 7,
+      "title": "~ㄹ/을락 말락: Stopping or Hesitating",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-167-175/lesson-169/",
+      "status": "published"
+    },
+    {
+      "lesson": 170,
+      "unit": 7,
+      "title": "~고 말았다: To End Up Doing",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-167-175/lesson-170/",
+      "status": "published"
+    },
+    {
+      "lesson": 171,
+      "unit": 7,
+      "title": "~다 싶다: Feeling, Thought or Perception",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-167-175/lesson-171/",
+      "status": "published"
+    },
+    {
+      "lesson": 172,
+      "unit": 7,
+      "title": "~(으)면 싶다 – Hope or Wish",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-167-175/lesson-172/",
+      "status": "published"
+    },
+    {
+      "lesson": 173,
+      "unit": 7,
+      "title": "싶다 – Guess, Assumption and Intention",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-167-175/lesson-173/",
+      "status": "published"
+    },
+    {
+      "lesson": 174,
+      "unit": 7,
+      "title": "~기는(요) – Downplaying Praise or Flattery",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-167-175/lesson-174/",
+      "status": "published"
+    },
+    {
+      "lesson": 175,
+      "unit": 7,
+      "title": "~치고 – Without Exception",
+      "url": "https://www.howtostudykorean.com/unit-7/lessons-167-175/lesson-175/",
+      "status": "published"
+    },
+    {
+      "lesson": 176,
+      "unit": 8,
+      "title": "~아/어 봤자 – To be Pointless to do",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-176-183/lesson-176/",
+      "status": "published"
+    },
+    {
+      "lesson": 177,
+      "unit": 8,
+      "title": "~(으)오 and ~(으)오니: Archaic and Formal Connector",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-176-183/lesson-177/",
+      "status": "published"
+    },
+    {
+      "lesson": 178,
+      "unit": 8,
+      "title": "Using ~구요 Instead of ~고",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-176-183/lesson-178/",
+      "status": "published"
+    },
+    {
+      "lesson": 179,
+      "unit": 8,
+      "title": "~기 마련이다: Bound to Occur",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-176-183/lesson-179/",
+      "status": "published"
+    },
+    {
+      "lesson": 180,
+      "unit": 8,
+      "title": "~ㄴ/은/는/을/ㄹ 듯하다: To seem like",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-176-183/lesson-180/",
+      "status": "published"
+    },
+    {
+      "lesson": 181,
+      "unit": 8,
+      "title": "~조차: Even one particular noun",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-176-183/lesson-181/",
+      "status": "published"
+    },
+    {
+      "lesson": 182,
+      "unit": 8,
+      "title": "~답다: Taking the Qualities of a Noun",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-176-183/lesson-182/",
+      "status": "published"
+    },
+    {
+      "lesson": 183,
+      "unit": 8,
+      "title": "~롭다: To Possess a Quality or Characteristic Fully",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-176-183/lesson-183/",
+      "status": "published"
+    },
+    {
+      "lesson": 184,
+      "unit": 8,
+      "title": "~(이)나마: Accepting an Unsatisfactory Situation",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-184-191/lesson-184/",
+      "status": "published"
+    },
+    {
+      "lesson": 185,
+      "unit": 8,
+      "title": "~ㄴ/은/는데다가: Piling on Information",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-184-191/lesson-185/",
+      "status": "published"
+    },
+    {
+      "lesson": 186,
+      "unit": 8,
+      "title": "~고서: Sequential or Causal Relationship",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-184-191/lesson-186/",
+      "status": "published"
+    },
+    {
+      "lesson": 187,
+      "unit": 8,
+      "title": "~고서야: Only After",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-184-191/lesson-187/",
+      "status": "published"
+    },
+    {
+      "lesson": 188,
+      "unit": 8,
+      "title": "~(으)나: Even Though",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-184-191/lesson-188/",
+      "status": "published"
+    },
+    {
+      "lesson": 189,
+      "unit": 8,
+      "title": "~(으)나: Irrelevance Among Options",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-184-191/lesson-189/",
+      "status": "published"
+    },
+    {
+      "lesson": 190,
+      "unit": 8,
+      "title": "~(으)나 마나: To be Pointless",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-184-191/lesson-190/",
+      "status": "published"
+    },
+    {
+      "lesson": 191,
+      "unit": 8,
+      "title": "~는 둥 마는 둥: Incompletely or Half-heartedly",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-184-191/lesson-191/",
+      "status": "published"
+    },
+    {
+      "lesson": 192,
+      "unit": 8,
+      "title": "~ㄴ/는단다: A Motherly Contraction of ~ㄴ/는다고 한다",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-192-200/lesson-192/",
+      "status": "published"
+    },
+    {
+      "lesson": 193,
+      "unit": 8,
+      "title": "~(으)렴 – Gentle Command",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-192-200/lesson-193/",
+      "status": "published"
+    },
+    {
+      "lesson": 194,
+      "unit": 8,
+      "title": "Naming recurring events, historical events and parts within legal documents (제1회)",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-192-200/lesson-194/",
+      "status": "published"
+    },
+    {
+      "lesson": 195,
+      "unit": 8,
+      "title": "그지없다: To not be able to express the extent of an adjective",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-192-200/lesson-195/",
+      "status": "published"
+    },
+    {
+      "lesson": 196,
+      "unit": 8,
+      "title": "겸 and 겸사겸사",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-192-200/lesson-196/",
+      "status": "published"
+    },
+    {
+      "lesson": 197,
+      "unit": 8,
+      "title": "바 – Referring to a Past Notice and Taking an Opportunity",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-192-200/lesson-197/",
+      "status": "published"
+    },
+    {
+      "lesson": 198,
+      "unit": 8,
+      "title": "~ㄴ/은 셈이다: To be considered as",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-192-200/lesson-198/",
+      "status": "published"
+    },
+    {
+      "lesson": 199,
+      "unit": 8,
+      "title": "~은/는커녕: Far From",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-192-200/lesson-199/",
+      "status": "published"
+    },
+    {
+      "lesson": 200,
+      "unit": 8,
+      "title": "부리다: To Display a Behavior or Attitude",
+      "url": "https://www.howtostudykorean.com/unit-8/lessons-192-200/lesson-200/",
+      "status": "published"
+    },
+    {
+      "lesson": 201,
+      "unit": 9,
+      "title": "~(으)리라고: To Think Something Will Happen",
+      "url": "https://www.howtostudykorean.com/unit-9/lessons-201-208/lesson-201/",
+      "status": "published"
+    },
+    {
+      "lesson": 202,
+      "unit": 9,
+      "title": null,
+      "url": null,
+      "status": "planned"
+    },
+    {
+      "lesson": 203,
+      "unit": 9,
+      "title": null,
+      "url": null,
+      "status": "planned"
+    },
+    {
+      "lesson": 204,
+      "unit": 9,
+      "title": null,
+      "url": null,
+      "status": "planned"
+    },
+    {
+      "lesson": 205,
+      "unit": 9,
+      "title": null,
+      "url": null,
+      "status": "planned"
+    },
+    {
+      "lesson": 206,
+      "unit": 9,
+      "title": null,
+      "url": null,
+      "status": "planned"
+    },
+    {
+      "lesson": 207,
+      "unit": 9,
+      "title": null,
+      "url": null,
+      "status": "planned"
+    },
+    {
+      "lesson": 208,
+      "unit": 9,
+      "title": null,
+      "url": null,
+      "status": "planned"
+    }
+  ],
+  "notes_on_source": [
+    "The site's Unit 4 group page links Lesson 92 under a 'lesson-82' slug; that URL genuinely serves Lesson 92. Lesson 82 lives at 'lesson-82-2'. Both are recorded as resolved here."
+  ]
+}

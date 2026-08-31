@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1e2126" media="(prefers-color-scheme: dark)">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="한국어">
+<title>한국어 · Anki</title>
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/app.css">
+</head>
+<body>
+<header>
+  <a href="#" id="home-link" class="brand">한국어 <span>study</span></a>
+  <div id="header-info" class="muted"></div>
+</header>
+
+<main id="deck-view">
+  <div id="stats" class="stats"></div>
+  <div id="decks"></div>
+</main>
+
+<main id="study-view" hidden>
+  <div class="study-bar">
+    <button id="back" class="ghost">← Decks</button>
+    <div id="study-title"></div>
+    <div id="queue-counts" class="counts"></div>
+  </div>
+
+  <div id="card-area">
+    <style id="card-css"></style>
+    <div id="card" class="card"></div>
+  </div>
+
+  <div id="audio-row" class="audio-row"></div>
+
+  <div id="controls">
+    <button id="show" class="primary">Show answer <kbd>space</kbd></button>
+    <div id="grades" hidden>
+      <button data-grade="1" class="grade again">Again<span></span><kbd>1</kbd></button>
+      <button data-grade="2" class="grade hard">Hard<span></span><kbd>2</kbd></button>
+      <button data-grade="3" class="grade good">Good<span></span><kbd>3</kbd></button>
+      <button data-grade="4" class="grade easy">Easy<span></span><kbd>4</kbd></button>
+    </div>
+  </div>
+  <div id="done" class="done" hidden></div>
+  <div class="hint muted">space = show / good · 1–4 grade · r = replay audio</div>
+</main>
+
+<script src="/app.js"></script>
+</body>
+</html>
